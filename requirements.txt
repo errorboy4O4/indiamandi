@@ -1,9 +1,9 @@
 streamlit
 anthropic
-chromadb
-sentence-transformers
 pandas
 numpy
 plotly
 pyarrow
 toml
+chromadb
+sentence-transformers
