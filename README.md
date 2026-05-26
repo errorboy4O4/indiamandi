@@ -1,5 +1,7 @@
 # 🌾 IndiaMandi — AI-Powered Agri Price Intelligence
 
+### 🔴 [Live Demo → indiamandi.streamlit.app](https://indiamandi.streamlit.app/)
+
 > Ask plain-English questions about crop prices across India's 268+ APMC mandis. Get instant answers with real ₹ prices, mandi names, and trend charts — powered by RAG + Claude AI.
 
 ![AI Chat Demo](screenshots/ai_chat.png)
